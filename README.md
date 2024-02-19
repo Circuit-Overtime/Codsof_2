@@ -13,7 +13,7 @@ The page has active hyperlinking and many UI interactive features!
 
 ## 🚀 Demo
 
-[Demo Link](https://circuit-overtime.github.io/CodSof2/elixpo.htm)
+[Demo Link](https://circuit-overtime.github.io/Codsof2/elixpo.html)
 
 ## Project Screenshots
 
